@@ -1,0 +1,10 @@
+{
+  "name": "gwtapp10",
+  "version": "1.0.0",
+  "description": "npm dependencies for test",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/acount_name/gwtapp10.git",
+  "devDependencies": {
+    "sw-precache": "^4.2.1"
+  }
+}
